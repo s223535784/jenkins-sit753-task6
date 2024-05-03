@@ -20,7 +20,7 @@ pipeline {
 
             steps {
 
-                println "Task: Run unit tests to ensure the code functions as expected "
+                println "Task: Run unit tests to ensure the code functions as  expected "
 
                 println "Suggested Tool: JUnit"
 
