@@ -10,7 +10,7 @@ pipeline {
 
                 println "Task: Compile and package the code"
 
-                println "Suggested Tool: Maven"
+                println "Suggested Tool: Maven "
 
             }
 
