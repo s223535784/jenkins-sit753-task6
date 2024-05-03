@@ -84,7 +84,7 @@ pipeline {
 
             steps {
 
-                println "Task: Identify any vulnerabilities in the code"
+                println "Task: Identify any vulnerabilities in the code "
 
                 println "Suggested Tool: OWASP ZAP"
 
